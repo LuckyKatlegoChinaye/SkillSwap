@@ -1,9 +1,7 @@
 
-# SkillSwap 🌐
-
 **SkillSwap** is a responsive, community-based website built as part of the Web & Multimedia Development (WMD) 2025 assignment at Botswana Accountancy College. This platform allows users to discover, share, and promote various skills through a clean, modern interface.
 
----
+
 
 ## Project Objective
 
@@ -21,7 +19,7 @@ The goal of this project is to demonstrate website planning, design, and develop
 
 
 
-## 📂 Pages Included
+## Pages Included
 
 - `index.html` - Homepage  
 - `about.html` - Background of SkillSwap  
@@ -39,25 +37,21 @@ The goal of this project is to demonstrate website planning, design, and develop
 - **JavaScript**  
 - **Chart.js**  
 - **Git & GitHub**  
-- **GIMP** for image editing
 
----
+
 
 ## Testing & Compatibility
 
 Tested on:
 - Browsers: Chrome, Firefox, Safari, Edge  
-- Devices: iPhone 12, Samsung Galaxy, iPad, Windows 11 laptop  
+- Devices: iPhone and 8 Plus, Samsung Galaxy, Windows 11 laptop  
 
-✅ Fully responsive and functional on all platforms.
+ Fully responsive and functional on all platforms.
 
----
 
-## 🌐 Live Site
+## 🌐 Live Site: https://LuckyKatlegoChinaye.github.io/SkillSwap/
 
-Check it out here 👉 https://LuckyKatlegoChinaye.github.io/SkillSwap/
-
-## 📈 Future Improvements
+##  Future Improvements
 
 - Add login/auth system  
 - Real-time chat integration  
