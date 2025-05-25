@@ -44,7 +44,7 @@ The goal of this project is to demonstrate website planning, design, and develop
 
 Tested on:
 - Browsers: Chrome, Firefox, Safari, Edge  
-- Devices: iPhone and 8 Plus, Samsung Galaxy, Windows 11 laptop  
+- Devices: iPhone 12 and 8 Plus, Samsung Galaxy, Windows 11 laptop  
 
  Fully responsive and functional on all platforms.
 
